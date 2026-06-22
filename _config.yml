@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL - paste your Google Scholar profile link here
+  googlescholar    : https://scholar.google.com/citations?user=eGdLsLQAAAAJ&hl=en&authuser=1
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL - paste your ORCID link here
+  orcid            : https://orcid.org/0000-0001-8895-499X
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "tayanhnguyen4779"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
