@@ -4,92 +4,119 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed journal articles
+# Papers
 
-### 2026
+## 2026
 
-1. Xu, H., Zhao, Y., Le, J. L., **Nguyen, A. T.**, Deodatis, G., & Bažant, Z. P. (2026). Critique of lower-margin equations in concrete design codes and of their effect on structural safety software. *Journal of Structural Engineering*. Accepted.
+1. [Critique of lower-margin equations in concrete design codes and of their effect on structural safety software](#)  
+   H. Xu, Y. Zhao, J. L. Le, **A. T. Nguyen**, G. Deodatis, and Z. P. Bažant, *Journal of Structural Engineering*. Accepted.
 
-2. **Nguyen, A. T.** (co-first author), Asem, P., Zhao, Y., Labuz, J., & Bažant, Z. P. (2026). A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: experimental validation. *Rock Mechanics and Rock Engineering*. Accepted.
+2. [A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: experimental validation](https://link.springer.com/article/10.1007/s00603-026-05517-9)  
+   **A. T. Nguyen** (co-first author), P. Asem, Y. Zhao, J. Labuz, and Z. P. Bažant, *Rock Mechanics and Rock Engineering*. Published online.
 
-3. Xu, H., Zhao, Y., **Nguyen, A. T.**, & Bažant, Z. P. (2026). Smooth Lagrangian crack band model with softening spress-sprain relation and crack width prediction. *International Journal of Non-Linear Mechanics*, 186, 105340.
+3. [Smooth Lagrangian crack band model with softening spress-sprain relation and crack width prediction](https://doi.org/10.1016/j.ijnonlinmec.2026.105340)  
+   H. Xu, Y. Zhao, **A. T. Nguyen**, and Z. P. Bažant, *International Journal of Non-Linear Mechanics*, 186, 105340.
 
-4. Zhao, Y., **Nguyen, A. T.**, Nguyen, H. T., & Bažant, Z. P. (2026). Osmotic control of the spacing of parallel shear cracks in shale growing subcritically in geologic past. *Journal of the Mechanics and Physics of Solids*, 207, 106428.
+4. [Osmotic control of the spacing of parallel shear cracks in shale growing subcritically in geologic past](https://www.sciencedirect.com/science/article/pii/S0022509625004028)  
+   Y. Zhao, **A. T. Nguyen**, H. T. Nguyen, and Z. P. Bažant, *Journal of the Mechanics and Physics of Solids*, 207, 106428.
 
-### 2025
+## 2025
 
-5. Zhao, Y., **Nguyen, A. T.**, Chen, H., Espinosa, H. D., & Bažant, Z. P. (2025). Crack-parallel stress effects in soft material fracture: insights from gap tests and the microplane modeling perspective. *Journal of Applied Mechanics*, 93(2).
+1. [Crack-parallel stress effects in soft material fracture: insights from gap tests and the microplane modeling perspective](https://doi.org/10.1115/1.4070265)  
+   Y. Zhao, **A. T. Nguyen**, H. Chen, H. D. Espinosa, and Z. P. Bažant, *Journal of Applied Mechanics*, 93(2).
 
-6. **Nguyen, A. T.**, Linh, N. N., Thang, N. C., Ngoc, N. H., & Vinh, L. Q. (2025). A novel weighted averaging operator for frequency analysis of nonlinear free vibrations. *International Journal of Non-Linear Mechanics*, 105057.
+2. [A novel weighted averaging operator for frequency analysis of nonlinear free vibrations](https://doi.org/10.1016/j.ijnonlinmec.2025.105057)  
+   **A. T. Nguyen**, N. N. Linh, N. C. Thang, N. H. Ngoc, and L. Q. Vinh, *International Journal of Non-Linear Mechanics*, 105057.
 
-### 2024
+## 2024
 
-7. **Nguyen, A. T.**, Asem, P., Zhao, Y., & Bažant, Z. P. (2024). Fast permeability measurement for tight reservoir cores using only initial data of the one-chamber pressure pulse decay test. *Journal of the Mechanics and Physics of Solids*, 192, 105805.
+1. [Fast permeability measurement for tight reservoir cores using only initial data of the one-chamber pressure pulse decay test](https://doi.org/10.1016/j.jmps.2024.105805)  
+   **A. T. Nguyen**, P. Asem, Y. Zhao, and Z. P. Bažant, *Journal of the Mechanics and Physics of Solids*, 192, 105805.
 
-8. Xu, H., **Nguyen, A. T.**, & Bažant, Z. P. (2024). Sprain energy consequences for damage localization and fracture mechanics. *Proceedings of the National Academy of Sciences*, 121(40), e2410668121.
+2. [Sprain energy consequences for damage localization and fracture mechanics](https://doi.org/10.1073/pnas.2410668121)  
+   H. Xu, **A. T. Nguyen**, and Z. P. Bažant, *Proceedings of the National Academy of Sciences*, 121(40), e2410668121.
 
-9. Linh, N. N., **Nguyen, A. T.**, Thang, N. C., Anh, N. D., & Elishakoff, I. (2024). Extension of dual equivalent linearization to analysis of deterministic dynamic systems: part 2 — multi-parameter equivalent linearization. *Nonlinear Dynamics*, 112(20), 18001–18030.
+3. [Extension of dual equivalent linearization to analysis of deterministic dynamic systems: part 2 — multi-parameter equivalent linearization](https://doi.org/10.1007/s11071-024-09223-7)  
+   N. N. Linh, **A. T. Nguyen**, N. C. Thang, N. D. Anh, and I. Elishakoff, *Nonlinear Dynamics*, 112(20), 18001–18030.
 
-10. Kienzler, R., **Nguyen, A. T.**, & Pak, Y. E. (2024). M-integral and energy-release rates: A didactical account. *Advanced Structured Materials*, 89–120.
+4. [M-integral and energy-release rates: A didactical account](https://doi.org/10.1007/978-3-031-56132-0_5)  
+   R. Kienzler, **A. T. Nguyen**, and Y. E. Pak, *Advanced Structured Materials*, 89–120.
 
-### 2023
+## 2023
 
-11. **Nguyen, A. T.**, Xu, H., Matouš, K., & Bažant, Z. P. (2023). Smooth Lagrangian crack band model based on spress-sprain relation and Lagrange multiplier constraint of displacement gradient. *Journal of Applied Mechanics*, 91(3).
+1. [Smooth Lagrangian crack band model based on spress-sprain relation and Lagrange multiplier constraint of displacement gradient](https://asmedigitalcollection.asme.org/appliedmechanics/article/91/3/031007/1169714/Smooth-Lagrangian-Crack-Band-Model-Based-on-Spress)  
+   **A. T. Nguyen**, H. Xu, K. Matouš, and Z. P. Bažant, *Journal of Applied Mechanics*, 91(3).
 
-12. Bažant, Z. P., & **Nguyen, A. T.** (2023). Osmotic pressure gradient effects on water diffusion in porous rock: Can they pervert permeability tests? *Journal of Applied Mechanics*, 90(12).
+2. [Osmotic pressure gradient effects on water diffusion in porous rock: Can they pervert permeability tests?](https://doi.org/10.1115/1.4063030)  
+   Z. P. Bažant and **A. T. Nguyen**, *Journal of Applied Mechanics*, 90(12).
 
-### 2022
+## 2022
 
-13. Anh, N. D., Linh, N. N., Long, T. T., Thang, N. C., **Nguyen, A. T.**, & Elishakoff, I. (2022). Extension of dual equivalent linearization to analysis of deterministic dynamic systems. Part 1: Single-parameter equivalent linearization. *Nonlinear Dynamics*, 111(2), 997–1017.
+1. [Extension of dual equivalent linearization to analysis of deterministic dynamic systems. Part 1: Single-parameter equivalent linearization](https://doi.org/10.1007/s11071-022-07894-6)  
+   N. D. Anh, N. N. Linh, T. T. Long, N. C. Thang, **A. T. Nguyen**, and I. Elishakoff, *Nonlinear Dynamics*, 111(2), 997–1017.
 
-14. **Nguyen, A. T.**, Thang, N. C., Long, T. T., Anh, N. D., Thang, P. M., & Thanh, N. X. (2022). A novel weighted local averaging for the Galerkin method with application to elastic buckling of Euler column. *International Journal for Computational Methods in Engineering Science and Mechanics*, 24(2), 128–142.
+2. [A novel weighted local averaging for the Galerkin method with application to elastic buckling of Euler column](https://www.tandfonline.com/doi/full/10.1080/15502287.2022.2080612)  
+   **A. T. Nguyen**, N. C. Thang, T. T. Long, N. D. Anh, P. M. Thang, and N. X. Thanh, *International Journal for Computational Methods in Engineering Science and Mechanics*, 24(2), 128–142.
 
-### 2021
+## 2021
 
-15. Linh, N. N., **Nguyen, A. T.**, Manh, N. V., Tuan, V. A., Kuu, N. V., Anh, N. D., & Elishakoff, I. (2021). Efficiency of mono-stable piezoelectric Duffing energy harvester in the secondary resonances by averaging method, part 2: Super-harmonic resonance. *International Journal of Non-Linear Mechanics*, 137, 103817.
+1. [Efficiency of mono-stable piezoelectric Duffing energy harvester in the secondary resonances by averaging method, part 2: Super-harmonic resonance](https://doi.org/10.1016/j.ijnonlinmec.2021.103817)  
+   N. N. Linh, **A. T. Nguyen**, N. V. Manh, V. A. Tuan, V. Kuu, N. D. Anh, and I. Elishakoff, *International Journal of Non-Linear Mechanics*, 137, 103817.
 
-16. **Nguyen, A. T.**, Seo, Y., Park, S.-H., & Pak, Y. E. (2021). Quantification of the effects of misfit strain on the energy states of zinc-blende spherical core/shell quantum dots. *Journal of the Korean Physical Society*, 79(1), 87–94.
+2. [Quantification of the effects of misfit strain on the energy states of zinc-blende spherical core/shell quantum dots](https://doi.org/10.1007/s40042-021-00175-2)  
+   **A. T. Nguyen**, Y. Seo, S.-H. Park, and Y. E. Pak, *Journal of the Korean Physical Society*, 79(1), 87–94.
 
-### 2020
+## 2020
 
-17. Anh, N. D., Linh, N. N., Manh, N. V., Tuan, V. A., Kuu, N. V., **Nguyen, A. T.**, & Elishakoff, I. (2020). Efficiency of mono-stable piezoelectric Duffing energy harvester in the secondary resonances by averaging method. Part 1: Sub-harmonic resonance. *International Journal of Non-Linear Mechanics*, 126, 103537.
-
----
-
-## Book chapter
-
-### 2024
-
-1. **Nguyen, A. T.**, Garnaik, S. S., Kienzler, R., & Pak, Y. E. (2024). Path-independent integrals and their applications in fracture and defect mechanics. In *Deformation and Fracture in Materials: Advances in Experimental and Computational Mechanics*.
-
----
-
-## Peer-reviewed conference proceedings
-
-### 2026
-
-1. **Nguyen, A. T.**, Zhao, Y., Niu, Y., & Bažant, Z. P. (2026). Rapid in-situ permeability estimation of reservoir rocks from fall-off tests using a parabolic approximation of axisymmetric diffusion. *60th U.S. Rock Mechanics/Geomechanics Symposium*, Tucson, Arizona, USA. American Rock Mechanics Association.
-
-### 2025
-
-2. Xu, H., **Nguyen, A. T.**, Zhao, Y., & Bažant, Z. P. (2025). A poromechanical model for the branching of hydraulic fractures in rocks with pre-existing weak layers. *59th U.S. Rock Mechanics/Geomechanics Symposium*, Santa Fe, New Mexico, USA. American Rock Mechanics Association.
-
-3. **Nguyen, A. T.**, Asem, P., Matter, J., Labuz, J. F., & Bažant, Z. P. (2025). Fast permeability measurements of tight rock: Theoretical study and experimental validation. *59th U.S. Rock Mechanics/Geomechanics Symposium*, Santa Fe, New Mexico, USA. American Rock Mechanics Association.
-
-### 2024
-
-4. Asem, P., **Nguyen, A. T.**, Bažant, Z. P., Matter, J., & Labuz, J. F. (2024). Permeability of serpentinized harzburgite and its implications on mineral carbon storage. *58th U.S. Rock Mechanics/Geomechanics Symposium*, Golden, Colorado, USA. American Rock Mechanics Association.
-
-5. Bažant, Z. P., **Nguyen, A. T.**, Xu, H., Asem, P., & Labuz, J. F. (2024). Hydraulic crack propagation and rock permeability under osmotic pressure gradients with implications for deep CO₂ sequestration and fracking. *58th U.S. Rock Mechanics/Geomechanics Symposium*, Golden, Colorado, USA. American Rock Mechanics Association.
-
-### 2023
-
-6. Bažant, Z. P., Xu, H., **Nguyen, A. T.**, Carey, J. W., & Khan, M. (2023). The prospect of massive sequestration of atmospheric CO₂ in deep formations of basalt or peridotite appraised by fracture, diffusion and osmosis analysis. *57th U.S. Rock Mechanics/Geomechanics Symposium*, Atlanta, Georgia, USA. American Rock Mechanics Association.
+1. [Efficiency of mono-stable piezoelectric Duffing energy harvester in the secondary resonances by averaging method. Part 1: Sub-harmonic resonance](https://doi.org/10.1016/j.ijnonlinmec.2020.103537)  
+   N. D. Anh, N. N. Linh, N. V. Manh, V. A. Tuan, V. Kuu, **A. T. Nguyen**, and I. Elishakoff, *International Journal of Non-Linear Mechanics*, 126, 103537.
 
 ---
 
-## Manuscripts in preparation
+# Book Chapter
 
-1. **Nguyen, A. T.**, Xu, H., Zhao, Y., & Bažant, Z. P. A poromechanical model for hydraulic fracture branching in rocks with pre-existing weak layers and crack-parallel stress.
+## 2024
 
-2. **Nguyen, A. T.**, Zhao, Y., Chen, H., Espinosa, H. D., & Bažant, Z. P. Experimental and numerical characterization of crack-parallel stress effects on mode-I fracture of shale. Target journal: *Journal of the Mechanics and Physics of Solids*.
+1. [Path-independent integrals and their applications in fracture and defect mechanics](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003359364-11/path-independent-integrals-applications-fracture-defect-mechanics-anh-tay-nguyen-shubhada-garnaik-reinhold-kienzler-eugene-pak)  
+   **A. T. Nguyen**, S. S. Garnaik, R. Kienzler, and Y. E. Pak, in *Deformation and Fracture in Materials: Advances in Experimental and Computational Mechanics*.
+
+---
+
+# Conference Proceedings
+
+## 2026
+
+1. Rapid in-situ permeability estimation of reservoir rocks from fall-off tests using a parabolic approximation of axisymmetric diffusion  
+   **A. T. Nguyen**, Y. Zhao, Y. Niu, and Z. P. Bažant, *60th U.S. Rock Mechanics/Geomechanics Symposium*, Tucson, Arizona, USA. American Rock Mechanics Association.
+
+## 2025
+
+1. [A poromechanical model for the branching of hydraulic fractures in rocks with pre-existing weak layers](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA25/ARMA25/786316)  
+   H. Xu, **A. T. Nguyen**, Y. Zhao, and Z. P. Bažant, *59th U.S. Rock Mechanics/Geomechanics Symposium*, Santa Fe, New Mexico, USA. American Rock Mechanics Association.
+
+2. [Fast permeability measurements of tight rock: Theoretical study and experimental validation](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA25/ARMA25/786401)  
+   **A. T. Nguyen**, P. Asem, J. Matter, J. F. Labuz, and Z. P. Bažant, *59th U.S. Rock Mechanics/Geomechanics Symposium*, Santa Fe, New Mexico, USA. American Rock Mechanics Association.
+
+## 2024
+
+1. [Permeability of serpentinized harzburgite and its implications on mineral carbon storage](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA24/ARMA24/549146)  
+   P. Asem, **A. T. Nguyen**, Z. P. Bažant, J. Matter, and J. F. Labuz, *58th U.S. Rock Mechanics/Geomechanics Symposium*, Golden, Colorado, USA. American Rock Mechanics Association.
+
+2. [Hydraulic crack propagation and rock permeability under osmotic pressure gradients with implications for deep CO₂ sequestration and fracking](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA24/ARMA24/549345)  
+   Z. P. Bažant, **A. T. Nguyen**, H. Xu, P. Asem, and J. F. Labuz, *58th U.S. Rock Mechanics/Geomechanics Symposium*, Golden, Colorado, USA. American Rock Mechanics Association.
+
+## 2023
+
+1. [The prospect of massive sequestration of atmospheric CO₂ in deep formations of basalt or peridotite appraised by fracture, diffusion and osmosis analysis](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA23/All-ARMA23/532104)  
+   Z. P. Bažant, H. Xu, **A. T. Nguyen**, J. W. Carey, and M. Khan, *57th U.S. Rock Mechanics/Geomechanics Symposium*, Atlanta, Georgia, USA. American Rock Mechanics Association.
+
+---
+
+# Manuscripts in Preparation
+
+1. A poromechanical model for hydraulic fracture branching in rocks with pre-existing weak layers and crack-parallel stress  
+   **A. T. Nguyen**, H. Xu, Y. Zhao, and Z. P. Bažant. Manuscript in preparation.
+
+2. Experimental and numerical characterization of crack-parallel stress effects on mode-I fracture of shale  
+   **A. T. Nguyen**, Y. Zhao, H. Chen, H. D. Espinosa, and Z. P. Bažant. Manuscript in preparation.
+
