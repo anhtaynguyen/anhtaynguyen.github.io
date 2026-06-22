@@ -6,6 +6,19 @@ author_profile: true
 
 I have served as a teaching assistant for undergraduate and graduate-level mechanics and engineering courses at Northwestern University. My teaching experience includes leading recitations and review sessions, assisting with assignments and exams, supervising lab sections and student projects, and delivering independent lectures during the instructor's absence.
 
+## Teaching Interests
+
+- Solid mechanics
+- Mechanics of materials
+- Fracture mechanics
+- Continuum mechanics
+- Finite element methods
+- Poromechanics and geomechanics
+- Computational mechanics
+- Engineering mathematics
+
+---
+
 ## Teaching Recognition
 
 - **Teaching Assistant Award, Honorable Mention**<br>
@@ -55,16 +68,4 @@ Instructor: Prof. Yonggang Huang<br>
 Winter 2023
 
 Led recitations, review sessions, and grading for undergraduate students.
-
 ---
-
-## Teaching Interests
-
-- Solid mechanics
-- Mechanics of materials
-- Fracture mechanics
-- Continuum mechanics
-- Finite element methods
-- Poromechanics and geomechanics
-- Computational mechanics
-- Engineering mathematics
