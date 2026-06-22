@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Papers
+# Peer-reviewed Journal Papers
 
 ## 2026
 
