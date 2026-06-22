@@ -4,8 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 I have served as a teaching assistant for undergraduate and graduate-level mechanics and engineering courses at Northwestern University. My teaching experience includes leading recitations and review sessions, assisting with assignments and exams, supervising lab sections and student projects, and delivering independent lectures during the instructor's absence.
 
 ## Teaching Recognition
