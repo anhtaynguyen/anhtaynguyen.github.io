@@ -17,9 +17,7 @@ Outside of research, I am a classically trained pianist and an avid soccer fan. 
 
 ## Research interests
 
-- Fracture mechanics of quasi-brittle materials
-- Crack band and microplane modeling
-- Poromechanics and hydraulic fracturing
-- Fast permeability testing of tight rocks
-- Osmotic effects and chemo-hydraulic coupling
-- Subsurface energy systems, geological carbon storage, and geothermal energy
+- Nonlinear fracture mechanics
+- Constitutive modeling of quasi-brittle materials
+- Fluid flow in porous media
+- Multiphysics modeling for subsurface applications
