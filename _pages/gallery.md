@@ -4,9 +4,6 @@ permalink: /gallery/
 author_profile: true
 ---
 
-# Gallery
-
-This page collects selected photos from conferences, workshops, research activities, teaching, and extracurricular life.
 
 <style>
 .gallery-figure {
@@ -30,9 +27,6 @@ This page collects selected photos from conferences, workshops, research activit
 }
 </style>
 
----
-
-## Conferences and Workshops
 
 <figure class="gallery-figure">
   <img src="/images/gallery/ARMA2026.jpeg" width="750" alt="Poster presentation at ARMA 2026 in Tucson, Arizona">
@@ -69,9 +63,6 @@ This page collects selected photos from conferences, workshops, research activit
   <figcaption class="gallery-caption">Center photo from the 2024 GMCS Annual Workshop.</figcaption>
 </figure>
 
----
-
-## Research Group and Collaborations
 
 <figure class="gallery-figure">
   <img src="/images/gallery/Bazanthome2025.JPG" width="750" alt="Research group gathering with Prof. Kirane, 2025">
@@ -83,9 +74,6 @@ This page collects selected photos from conferences, workshops, research activit
   <figcaption class="gallery-caption">Group lunch, 2024.</figcaption>
 </figure>
 
----
-
-## Extracurricular Activities
 
 <figure class="gallery-figure">
   <img src="/images/gallery/Bazanthome2023.jpg" width="750" alt="At the piano in Prof. Bažant's home, 2023">
