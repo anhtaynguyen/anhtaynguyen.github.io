@@ -4,10 +4,10 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Anh Tay Nguyen**
-Ph.D. Candidate
-Department of Mechanical Engineering
-Northwestern University
-Evanston, IL 60208
+**Anh Tay Nguyen**<br>
+Ph.D. Candidate<br>
+Department of Mechanical Engineering<br>
+Northwestern University<br>
+Evanston, IL 60208<br>
 
 **Email:** [anhnguyen2025@u.northwestern.edu](mailto:anhnguyen2025@u.northwestern.edu)
