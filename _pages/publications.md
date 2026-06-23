@@ -36,7 +36,7 @@ author_profile: true
 10. [**Sprain energy consequences for damage localization and fracture mechanics**](https://doi.org/10.1073/pnas.2410668121)<br>
    H. Xu, **A. T. Nguyen**, and Z. P. Bažant, *Proceedings of the National Academy of Sciences*, 121(40), e2410668121.
 
-9. [**Extension of dual equivalent linearization to analysis of deterministic dynamic systems: part 2 — multi-parameter equivalent linearization**](https://doi.org/10.1007/s11071-024-09223-7)<br>
+9. [**Extension of dual equivalent linearization to analysis of deterministic dynamic systems: part 2 — multi-parameter equivalent linearization**](https://link.springer.com/article/10.1007/s11071-024-09912-1)<br>
    N. N. Linh, **A. T. Nguyen**, N. C. Thang, N. D. Anh, and I. Elishakoff, *Nonlinear Dynamics*, 112(20), 18001–18030.
 
 8. [**M-integral and energy-release rates: A didactical account**](https://doi.org/10.1007/978-3-031-56132-0_5)<br>
