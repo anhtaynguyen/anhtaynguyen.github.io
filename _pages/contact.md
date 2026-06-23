@@ -4,8 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Contact
-
 **Anh Tay Nguyen**
 Ph.D. Candidate
 Department of Mechanical Engineering
