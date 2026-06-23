@@ -4,6 +4,28 @@ permalink: /gallery/
 author_profile: true
 ---
 
+<style>
+.gallery-figure {
+  text-align: center;
+  margin: 2rem auto 3rem auto;
+}
+
+.gallery-figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.gallery-caption {
+  text-align: center;
+  font-size: 1.05rem;
+  line-height: 1.45;
+  margin-top: 0.75rem;
+  color: #444;
+}
+</style>
+---
 <p align="center">
   <img src="/images/gallery/ARMA2026.jpeg" width="750">
 </p>
