@@ -19,13 +19,13 @@ The smooth crack band model addresses this issue by introducing a localization l
 
 **Related papers:**
 
-* [**Smooth Lagrangian crack band model based on spress-sprain relation and Lagrange multiplier constraint of displacement gradient**](https://asmedigitalcollection.asme.org/appliedmechanics/article/91/3/031007/1169714/Smooth-Lagrangian-Crack-Band-Model-Based-on-Spress)
+* [**Smooth Lagrangian crack band model based on spress-sprain relation and Lagrange multiplier constraint of displacement gradient**](https://asmedigitalcollection.asme.org/appliedmechanics/article/91/3/031007/1169714/Smooth-Lagrangian-Crack-Band-Model-Based-on-Spress)<br>
    **A. T. Nguyen**, H. Xu, K. Matouš, and Z. P. Bažant, *Journal of Applied Mechanics*, 91(3).
 
-* [**Sprain energy consequences for damage localization and fracture mechanics**](https://doi.org/10.1073/pnas.2410668121)
+* [**Sprain energy consequences for damage localization and fracture mechanics**](https://doi.org/10.1073/pnas.2410668121)<br>
    H. Xu, **A. T. Nguyen**, and Z. P. Bažant, *Proceedings of the National Academy of Sciences*, 121(40), e2410668121.
 
-* [**Smooth Lagrangian crack band model with softening spress-sprain relation and crack width prediction**](https://doi.org/10.1016/j.ijnonlinmec.2026.105340)
+* [**Smooth Lagrangian crack band model with softening spress-sprain relation and crack width prediction**](https://doi.org/10.1016/j.ijnonlinmec.2026.105340)<br>
    H. Xu, Y. Zhao, **A. T. Nguyen**, and Z. P. Bažant, *International Journal of Non-Linear Mechanics*, 186, 105340.
 
 ---
@@ -38,10 +38,10 @@ I developed a fast transient permeability measurement framework that extracts pe
 
 **Related papers:**
 
-* [**A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: experimental validation**](https://link.springer.com/article/10.1007/s00603-026-05517-9)
+* [**A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: experimental validation**](https://link.springer.com/article/10.1007/s00603-026-05517-9)<br>
    **A. T. Nguyen** (co-first author), P. Asem, Y. Zhao, J. Labuz, and Z. P. Bažant, *Rock Mechanics and Rock Engineering*. Published online.
 
-* [**Fast permeability measurement for tight reservoir cores using only initial data of the one-chamber pressure pulse decay test**](https://doi.org/10.1016/j.jmps.2024.105805)
+* [**Fast permeability measurement for tight reservoir cores using only initial data of the one-chamber pressure pulse decay test**](https://doi.org/10.1016/j.jmps.2024.105805)<br>
    **A. T. Nguyen**, P. Asem, Y. Zhao, and Z. P. Bažant, *Journal of the Mechanics and Physics of Solids*, 192, 105805.
 
 ---
@@ -54,7 +54,7 @@ I developed and implemented poromechanical models for hydraulic fracture propaga
 
 **Related papers:**
 
-* [**A poromechanical model for the branching of hydraulic fractures in rocks with pre-existing weak layers**](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA25/ARMA25/786316)
+* [**A poromechanical model for the branching of hydraulic fractures in rocks with pre-existing weak layers**](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA25/ARMA25/786316)<br>
    H. Xu, **A. T. Nguyen**, Y. Zhao, and Z. P. Bažant, *59th U.S. Rock Mechanics/Geomechanics Symposium*, Santa Fe, New Mexico, USA. American Rock Mechanics Association.
 
 ---
@@ -67,13 +67,8 @@ I developed analytical and mechanics-based models to study how osmotic pressure 
 
 **Related papers:**
 
-* [**Osmotic control of the spacing of parallel shear cracks in shale growing subcritically in geologic past**](https://www.sciencedirect.com/science/article/pii/S0022509625004028)
+* [**Osmotic control of the spacing of parallel shear cracks in shale growing subcritically in geologic past**](https://www.sciencedirect.com/science/article/pii/S0022509625004028)<br>
    Y. Zhao, **A. T. Nguyen**, H. T. Nguyen, and Z. P. Bažant, *Journal of the Mechanics and Physics of Solids*, 207, 106428.
-* [**Osmotic pressure gradient effects on water diffusion in porous rock: Can they pervert permeability tests?**](https://doi.org/10.1115/1.4063030)
+* [**Osmotic pressure gradient effects on water diffusion in porous rock: Can they pervert permeability tests?**](https://doi.org/10.1115/1.4063030)<br>
    Z. P. Bažant and **A. T. Nguyen**, *Journal of Applied Mechanics*, 90(12).
 
-* **Osmotic pressure gradient effects on water diffusion in porous rock: Can they pervert permeability tests?**
-  Z. P. Bažant and **A. T. Nguyen**, *Journal of Applied Mechanics*, 2023.
-
-* **The prospect of massive sequestration of atmospheric CO₂ in deep formations of basalt or peridotite appraised by fracture, diffusion and osmosis analysis**
-  Z. P. Bažant, H. Xu, **A. T. Nguyen**, J. W. Carey, and M. Khan, *57th U.S. Rock Mechanics/Geomechanics Symposium*, 2023.
