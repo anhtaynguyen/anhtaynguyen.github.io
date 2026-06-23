@@ -11,8 +11,8 @@ author_profile: true
 1. [**Critique of lower-margin equations in concrete design codes and of their effect on structural safety software**](#)
    H. Xu, Y. Zhao, J. L. Le, **A. T. Nguyen**, G. Deodatis, and Z. P. Bažant, *Journal of Structural Engineering*. Accepted.
 
-2. [**A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: experimental validation**](#)
-   **A. T. Nguyen** (co-first author), P. Asem, Y. Zhao, J. Labuz, and Z. P. Bažant, *Rock Mechanics and Rock Engineering*. Accepted.
+2. [**A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: experimental validation**](https://link.springer.com/article/10.1007/s00603-026-05517-9)
+   **A. T. Nguyen** (co-first author), P. Asem, Y. Zhao, J. Labuz, and Z. P. Bažant, *Rock Mechanics and Rock Engineering*. Published online.
 
 3. [**Smooth Lagrangian crack band model with softening spress-sprain relation and crack width prediction**](https://doi.org/10.1016/j.ijnonlinmec.2026.105340)
    H. Xu, Y. Zhao, **A. T. Nguyen**, and Z. P. Bažant, *International Journal of Non-Linear Mechanics*, 186, 105340.
