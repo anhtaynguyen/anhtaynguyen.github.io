@@ -12,7 +12,7 @@ My research develops mechanics-based models and experimental interpretation tool
 
 Quasi-brittle materials such as concrete, rock, and other geomaterials exhibit distributed damage and finite fracture process zones before complete crack formation. When modeled using local damage formulations, this process often suffers from spurious mesh sensitivity, where the predicted failure behavior, crack path, and energy dissipation depend on the size and shape of the finite element mesh. 
 
-The smooth crack band model addresses this issue by introducing a localization limiter characterized by the second gradient of the displacement vector field, including the material rotation gradient. I developed an efficient numerical implementation of this model using a Lagrange multiplier approach and demonstrated its performance through user-defined elements in ABAQUS.
+The smooth crack band model addresses this issue by introducing a localization limiter characterized by the second gradient of the displacement vector field, which includes the material rotation gradient. I developed an efficient numerical implementation of this model using a Lagrange multiplier approach and demonstrated its performance through user-defined elements in ABAQUS.
 
 <figure class="research-figure">
   <img src="/images/research/sCBM.png" alt="Graphical summary of the smooth Lagrangian crack band model">
