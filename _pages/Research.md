@@ -35,7 +35,7 @@ The smooth crack band model addresses this issue by introducing a localization l
 
 Low-permeability rocks are important for geological carbon storage, geothermal reservoirs, and subsurface energy systems, but their permeability can be difficult to measure accurately. Conventional pulse-decay permeability tests may require long equilibration times, during which leakage, temperature drift, and storage effects can strongly affect the interpretation.
 
-I developed a fast transient permeability measurement framework that extracts permeability from the early-time response of one-chamber pressure pulse-decay tests. The method accounts for poroelastic storage and system compliance and enables permeability estimation before full pressure equilibration is reached. This approach significantly reduces testing time for tight rocks while maintaining a clear analytical connection between pressure decay and rock permeability.
+I developed a fast transient permeability measurement framework that extracts permeability from the early-time response of pressure pulse-decay tests. The method accounts for poroelastic storage and system compliance and enables permeability estimation before full pressure equilibration is reached. This approach reducing testing time from days to minutes while improving accuracy by rigorously accounting for poroelastic storage and system compliance.
 
 **Related papers:**
 
