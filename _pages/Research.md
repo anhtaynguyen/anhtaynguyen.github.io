@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research develops mechanics-based models and experimental interpretation tools for fracture and transport in geomaterials, with applications to hydraulic fracturing, geological carbon storage, geothermal energy, and subsurface energy systems. A central theme of my work is to understand how fractures initiate, propagate, branch, and remain conductive in quasi-brittle rocks under coupled mechanical, hydraulic, and chemical processes.
+My research evelops mechanics-based models and experimental interpretation tools for fracture and transport in geomaterials, with applications to hydraulic fracturing, geological carbon storage, geothermal energy, and subsurface energy systems. A central theme of my work is to understand how fractures initiate, propagate, branch, and remain conductive in quasi-brittle rocks under coupled mechanical, hydraulic, and chemical processes.
 
 ---
 
