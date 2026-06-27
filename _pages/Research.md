@@ -53,6 +53,10 @@ Hydraulic fracture networks in subsurface formations are governed by coupled flu
 
 I developed and implemented poromechanical models for hydraulic fracture propagation and branching in rocks with pre-existing weak layers. The framework couples damage evolution, fluid flow, pressure-dependent permeability, and anisotropic poromechanical response. These models help explain how injection conditions and rock heterogeneity control the transition from localized fracture growth to complex branching patterns.
 
+<figure class="research-figure">
+  <img src="/images/research/fraccing.png" alt="Graphical summary of the poromechanical model of hydraulic fracturing">
+</figure>
+
 **Related papers:**
 
 * [**A poromechanical model for the branching of hydraulic fractures in rocks with pre-existing weak layers**](https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA25/ARMA25/786316)<br>
