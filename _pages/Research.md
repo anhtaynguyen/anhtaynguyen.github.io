@@ -70,6 +70,10 @@ Fluid transport in shale and other chemically active tight rocks can be strongly
 
 I developed analytical and mechanics-based models to study how osmotic pressure gradients influence water diffusion and permeability interpretation in porous rock. This work shows that neglecting osmotic effects can lead to misleading permeability estimates in shale. I also contributed to a crack-spacing theory in which ion-diffusion-driven stress interactions explain the formation of nearly uniform parallel crack systems over geological time.
 
+<figure class="research-figure">
+  <img src="/images/research/crackspacing.png" alt="Graphical summary of the crack spacing">
+</figure>
+
 **Related papers:**
 
 * [**Osmotic control of the spacing of parallel shear cracks in shale growing subcritically in geologic past**](https://www.sciencedirect.com/science/article/pii/S0022509625004028)<br>
