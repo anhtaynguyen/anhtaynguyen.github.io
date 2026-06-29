@@ -37,6 +37,10 @@ Low-permeability rocks are important for geological carbon storage, geothermal r
 
 I developed a fast transient permeability measurement framework that extracts permeability from the early-time response of pressure pulse-decay tests. The method accounts for poroelastic storage and system compliance and enables permeability estimation before full pressure equilibration is reached. This approach reducing testing time from days to minutes while improving accuracy by rigorously accounting for poroelastic storage and system compliance.
 
+<figure class="research-figure">
+  <img src="/images/research/pulsedecay.png" alt="Graphical summary of the pulse decay test">
+</figure>
+
 **Related papers:**
 
 * [**A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: experimental validation**](https://link.springer.com/article/10.1007/s00603-026-05517-9)<br>
